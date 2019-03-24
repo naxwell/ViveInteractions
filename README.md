@@ -15,3 +15,7 @@ Use the body as a controller/ expressive device in a way that does not simply pu
 Design for multiplayer/interpersonal interaction by taking VR technology out of the headset. 
 
 With that in mind, download the project and make some weird stuff! 
+
+A video rundown of the Unity project can be found here:
+
+https://www.youtube.com/watch?v=cdL4ZMl0stA
